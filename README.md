@@ -5,7 +5,7 @@
 [![GitHub yo-harsh](https://img.shields.io/github/followers/yo-harsh?label=follow&style=social)](https://github.com/yo-harsh)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **<b>A little more about me...</b>**  _<i><small>[portfolio](https://yo-harsh.github.io/portfolio/)</small></i>_
 
 ```python
 #!/usr/bin/python
@@ -26,9 +26,6 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-
-
-#### website (https://yo-harsh.github.io/portfolio/)
 
 <img src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
