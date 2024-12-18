@@ -27,6 +27,6 @@ me = DataScientist()
 me.say_hi()
 ```
 
-<img src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif" width="60"> <em><b>Yo!</b></em>
 
 ---
