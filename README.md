@@ -27,6 +27,6 @@ me = DataScientist()
 me.say_hi()
 ```
 
-<img src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif" width="60"> <em><b>Yo!</b></em>
+<img src="https://media.tenor.com/zqzxOu6FZk0AAAAM/hey-cat.gif" width="60"> <em><b>Follow -Check Repo</b></em>
 
 ---
