@@ -2,10 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/xTiQygY6HW1GjoYKFq/giphy.gif?cid=ecf05e47w9oiobta6um9iw3dpokbpg17ktvzgiu8gxjv69vy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" style="border-radius: 50%;">
 
 [![Linkedin: harshtiwadi](https://img.shields.io/badge/-harshtiwadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshtiwadi/)](https://www.linkedin.com/in/harshtiwadi/)
-[![GitHub yo-harsh](https://img.shields.io/github/followers/yo-harsh?label=follow&style=social)](https://github.com/yo-harsh)
+[![GitHub yo-harsh](https://img.shields.io/github/followers/Harsh-Tiwadi?label=follow&style=social)](https://github.com/yo-harsh)
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **<b>A little more about me...</b>**  _<i><small>[portfolio](https://yo-harsh.github.io/portfolio/)</small></i>_
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **<b>A little more about me...</b>**  _<i><small>[portfolio](https://Harsh-Tiwadi.github.io/portfolio/)</small></i>_
 
 ```python
 #!/usr/bin/python
