@@ -1,5 +1,5 @@
 <h2> Yo, I'm Harsh! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW02b2VydTJpcmdsdzg5OGhzMWZpa2JldzA1Mmc3bHVzemNweTJydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QigYdnKB0BL0dvh9Xu/giphy.gif" width="50"></h2>
-[<img align='right' src="https://media.giphy.com/media/xTiQygY6HW1GjoYKFq/giphy.gif?cid=ecf05e47w9oiobta6um9iw3dpokbpg17ktvzgiu8gxjv69vy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" style="border-radius: 50%;">]: #
+
 
 [![Linkedin: harshtiwadi](https://img.shields.io/badge/-harshtiwadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshtiwadi/)](https://www.linkedin.com/in/harshtiwadi/)
 [![GitHub yo-harsh](https://img.shields.io/github/followers/Harsh-Tiwadi?label=follow&style=social)](https://github.com/yo-harsh)
